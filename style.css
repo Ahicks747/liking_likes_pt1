@@ -1,0 +1,22 @@
+.container {
+    margin: 0 auto;
+    display: flex;
+    width: 1000px;
+}
+
+.likebox {
+    border: solid black;
+    display: inline;
+    align-items: center;
+    padding: 10px;
+    height: 250px;
+    width: 500px;
+}
+
+.likes  {
+    background-color: goldenrod;
+    border: solid black;
+    box-shadow: 3px 3px black;
+    width: 6em;
+    height: 2em;
+}
